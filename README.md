@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Aditya
 
 🎯 **Cybersecurity Specialist** | DevSecOps • Cloud Security • AppSec • Red Teaming  
 💡 Building real-world security projects to showcase practical skills across domains.
@@ -27,7 +27,7 @@
 ## 📜 Certifications (in-progress & completed)
 - ☑️ CCSP, CISSP (in progress)
 - ☑️ OSCP / CEH Labs (in progress)
-- ☑️ AWS Security – Specialty
+- ☑️ Azure/AWS Security – Specialty
 
 ---
 
