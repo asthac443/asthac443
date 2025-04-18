@@ -34,8 +34,7 @@
 ## 📬 Let's Connect
 - 💼 [LinkedIn](#)
 - 🌐 [Portfolio Website](#) _(Optional)_
-- 📧 Email: `your.email@domain.com`
-
+  
 ---
 
 _This GitHub will be continuously updated with security projects, labs, and certification journeys._  
