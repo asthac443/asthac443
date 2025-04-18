@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Aditya
 
-🎯 **Cybersecurity Specialist** | DevSecOps • Cloud Security • AppSec • Red Teaming  
-💡 Building real-world security projects to showcase practical skills across domains.
+🎯 **Cybersecurity Specialist** | Azure Cloud • DevSecOps • AppSec • Offensive Security  
+💡 I build hands-on security projects that demonstrate practical skills across cloud, code, and compliance.
 
 ---
 
 ## 🔒 Security Focus Areas
-- ✅ Cloud Security & DevSecOps
-- ✅ Offensive Security (Red Team, Pentesting)
+- ✅ Azure Cloud Security & DevSecOps
 - ✅ Secure Coding & Application Security
-- ✅ GRC, Risk Assessments & Compliance
+- ✅ Offensive Security & Red Teaming
+- ✅ GRC, Risk Assessments & ISO/NIST Compliance
 - ✅ AI/ML Security
 
 ---
@@ -17,24 +17,26 @@
 ## 🧪 Featured Projects
 | Project | Focus | Tech Stack | Link |
 |--------|-------|------------|------|
-| DevSecOps Pipeline | CI/CD + IaC + AWS | Terraform, GitHub Actions | [Repo](#) |
-| Web App Security | OWASP Top 10 | Flask, ZAP, SAST | [Repo](#) |
-| Red Team Labs | Offensive Security | TryHackMe, Kali, MITRE | [Repo](#) |
-| GRC Playbook | ISO/NIST Audit | Templates, Mapping | [Repo](#) |
+| Azure DevSecOps Pipeline | CI/CD + IaC + Azure | Terraform, GitHub Actions, Azure Policy | [Repo](#) |
+| Web App Security Lab | OWASP + Threat Modeling | Flask, SAST/DAST, Threat Dragon | [Repo](#) |
+| Red Team Labs | Pentesting + MITRE ATT&CK | TryHackMe, Kali, Azure VMs | [Repo](#) |
+| GRC Risk Playbook | Audit & Compliance | ISO/NIST Mapping, RCSA Template | [Repo](#) |
+| ML Model Security | Adversarial Defense | TensorFlow, ART, Encryption | [Repo](#) |
+| ELK SIEM Project | Log Monitoring | Azure Logs, ELK, MITRE Rules | [Repo](#) |
 
 ---
 
-## 📜 Certifications (in-progress & completed)
-- ☑️ CCSP, CISSP (in progress)
-- ☑️ OSCP / CEH Labs (in progress)
-- ☑️ Azure/AWS Security – Specialty
+## 📜 Certifications
+- ☑️ CISSP, CCSP (in progress)
+- ☑️ AZ-500: Microsoft Azure Security Technologies
+- ☑️ OSCP  (in progress)
 
 ---
 
 ## 📬 Let's Connect
 - 💼 [LinkedIn](#)
 - 🌐 [Portfolio Website](#) _(Optional)_
-  
+
 ---
 
-_This GitHub will be continuously updated with security projects, labs, and certification journeys._  
+_This GitHub will be continuously updated with my security projects, cloud labs, and certification journeys._  
