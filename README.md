@@ -27,7 +27,7 @@
 ---
 
 ## 📜 Certifications
-- ☑️ CISSP, CCSP (in progress)
+- ☑️ CISSP, CCSP
 - ☑️ AZ-500: Microsoft Azure Security Technologies
 - ☑️ OSCP  (in progress)
 
@@ -35,7 +35,7 @@
 
 ## 📬 Let's Connect
 - 💼 [LinkedIn](#)
-- 🌐 [Portfolio Website](#) _(Optional)_
+- 🌐 [Portfolio Website](#) 
 
 ---
 
